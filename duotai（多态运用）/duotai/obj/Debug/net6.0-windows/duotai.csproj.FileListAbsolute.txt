@@ -1,0 +1,16 @@
+D:\desk\winform\duotai\duotai\bin\Debug\net6.0-windows\duotai.exe
+D:\desk\winform\duotai\duotai\bin\Debug\net6.0-windows\duotai.deps.json
+D:\desk\winform\duotai\duotai\bin\Debug\net6.0-windows\duotai.runtimeconfig.json
+D:\desk\winform\duotai\duotai\bin\Debug\net6.0-windows\duotai.dll
+D:\desk\winform\duotai\duotai\bin\Debug\net6.0-windows\duotai.pdb
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.Form1.resources
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.csproj.GenerateResource.cache
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.GeneratedMSBuildEditorConfig.editorconfig
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.AssemblyInfoInputs.cache
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.AssemblyInfo.cs
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.csproj.CoreCompileInputs.cache
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.dll
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\refint\duotai.dll
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.pdb
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\duotai.genruntimeconfig.cache
+D:\desk\winform\duotai\duotai\obj\Debug\net6.0-windows\ref\duotai.dll

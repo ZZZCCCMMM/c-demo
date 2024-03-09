@@ -1,0 +1,12 @@
+D:\desk\winform\pic\pic\bin\Debug\pic.exe.config
+D:\desk\winform\pic\pic\bin\Debug\pic.exe
+D:\desk\winform\pic\pic\bin\Debug\pic.pdb
+D:\desk\winform\pic\pic\bin\Debug\halcondotnet.xml
+D:\desk\winform\pic\pic\obj\Debug\pic.csproj.AssemblyReference.cache
+D:\desk\winform\pic\pic\obj\Debug\pic.Form1.resources
+D:\desk\winform\pic\pic\obj\Debug\pic.Properties.Resources.resources
+D:\desk\winform\pic\pic\obj\Debug\pic.csproj.GenerateResource.cache
+D:\desk\winform\pic\pic\obj\Debug\pic.csproj.CoreCompileInputs.cache
+D:\desk\winform\pic\pic\obj\Debug\pic.csproj.CopyComplete
+D:\desk\winform\pic\pic\obj\Debug\pic.exe
+D:\desk\winform\pic\pic\obj\Debug\pic.pdb

@@ -1,0 +1,13 @@
+D:\desk\winform\lne\lne\obj\Debug\lne.csproj.AssemblyReference.cache
+D:\desk\winform\lne\lne\obj\Debug\lne.Form1.resources
+D:\desk\winform\lne\lne\obj\Debug\lne.Properties.Resources.resources
+D:\desk\winform\lne\lne\obj\Debug\lne.csproj.GenerateResource.cache
+D:\desk\winform\lne\lne\obj\Debug\lne.csproj.CoreCompileInputs.cache
+D:\desk\winform\lne\lne\bin\Debug\lne.exe.config
+D:\desk\winform\lne\lne\bin\Debug\lne.exe
+D:\desk\winform\lne\lne\bin\Debug\lne.pdb
+D:\desk\winform\lne\lne\bin\Debug\halcondotnet.dll
+D:\desk\winform\lne\lne\bin\Debug\halcondotnet.xml
+D:\desk\winform\lne\lne\obj\Debug\lne.csproj.CopyComplete
+D:\desk\winform\lne\lne\obj\Debug\lne.exe
+D:\desk\winform\lne\lne\obj\Debug\lne.pdb

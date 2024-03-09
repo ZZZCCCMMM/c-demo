@@ -1,0 +1,9 @@
+D:\desk\winform\my_windows\my_windows\bin\Debug\my_windows.pdb
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.csproj.AssemblyReference.cache
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.csproj.CoreCompileInputs.cache
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.dll
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.pdb
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.csproj.GenerateResource.cache
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.csproj.CopyComplete
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.From1.resources
+D:\desk\winform\my_windows\my_windows\obj\Debug\my_windows.UserControl1.resources

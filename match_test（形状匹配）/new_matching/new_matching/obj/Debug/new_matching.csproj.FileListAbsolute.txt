@@ -1,0 +1,13 @@
+D:\desk\winform\new_matching\new_matching\bin\Debug\new_matching.exe.config
+D:\desk\winform\new_matching\new_matching\bin\Debug\new_matching.exe
+D:\desk\winform\new_matching\new_matching\bin\Debug\new_matching.pdb
+D:\desk\winform\new_matching\new_matching\bin\Debug\halcondotnet.dll
+D:\desk\winform\new_matching\new_matching\bin\Debug\halcondotnet.xml
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.csproj.AssemblyReference.cache
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.Form1.resources
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.Properties.Resources.resources
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.csproj.GenerateResource.cache
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.csproj.CoreCompileInputs.cache
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.csproj.CopyComplete
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.exe
+D:\desk\winform\new_matching\new_matching\obj\Debug\new_matching.pdb

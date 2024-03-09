@@ -1,0 +1,13 @@
+D:\desk\winform\window\window\bin\Debug\window.exe.config
+D:\desk\winform\window\window\bin\Debug\window.exe
+D:\desk\winform\window\window\bin\Debug\window.pdb
+D:\desk\winform\window\window\bin\Debug\halcondotnet.dll
+D:\desk\winform\window\window\bin\Debug\halcondotnet.xml
+D:\desk\winform\window\window\obj\Debug\window.csproj.AssemblyReference.cache
+D:\desk\winform\window\window\obj\Debug\window.Form1.resources
+D:\desk\winform\window\window\obj\Debug\window.Properties.Resources.resources
+D:\desk\winform\window\window\obj\Debug\window.csproj.GenerateResource.cache
+D:\desk\winform\window\window\obj\Debug\window.csproj.CoreCompileInputs.cache
+D:\desk\winform\window\window\obj\Debug\window.csproj.CopyComplete
+D:\desk\winform\window\window\obj\Debug\window.exe
+D:\desk\winform\window\window\obj\Debug\window.pdb

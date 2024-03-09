@@ -1,0 +1,28 @@
+﻿using duotai.Interface;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace duotai.Models
+{
+    public class Upan : IUsb
+    {
+        public string EquipmentName { get; set; }
+        public Upan(string equipmentName)
+        {
+            EquipmentName = equipmentName;
+            AddEquipment();
+
+        }
+        public void AddEquipment()
+        {
+            MessageBox.Show($"{EquipmentName}插入了");
+        }
+        public void EquipmentWorking() 
+        {
+            MessageBox.Show($"{EquipmentName}正在工作");
+        }
+    }
+}

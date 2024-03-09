@@ -1,0 +1,17 @@
+D:\desk\winform\List\List\bin\Debug\net6.0-windows\List.exe
+D:\desk\winform\List\List\bin\Debug\net6.0-windows\List.deps.json
+D:\desk\winform\List\List\bin\Debug\net6.0-windows\List.runtimeconfig.json
+D:\desk\winform\List\List\bin\Debug\net6.0-windows\List.dll
+D:\desk\winform\List\List\bin\Debug\net6.0-windows\List.pdb
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.Form1.resources
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.Frm2.resources
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.csproj.GenerateResource.cache
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.AssemblyInfoInputs.cache
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.AssemblyInfo.cs
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.csproj.CoreCompileInputs.cache
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.dll
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\refint\List.dll
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.pdb
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\List.genruntimeconfig.cache
+D:\desk\winform\List\List\obj\Debug\net6.0-windows\ref\List.dll

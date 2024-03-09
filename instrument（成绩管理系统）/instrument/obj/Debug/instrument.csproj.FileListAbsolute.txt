@@ -1,0 +1,11 @@
+D:\desk\winform\instrument\instrument\bin\Debug\instrument.exe.config
+D:\desk\winform\instrument\instrument\bin\Debug\instrument.exe
+D:\desk\winform\instrument\instrument\bin\Debug\instrument.pdb
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.csproj.AssemblyReference.cache
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.MainForm.resources
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.Properties.Resources.resources
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.csproj.GenerateResource.cache
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.csproj.CoreCompileInputs.cache
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.exe
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.pdb
+D:\desk\winform\instrument\instrument\obj\Debug\instrument.StudentForm.resources

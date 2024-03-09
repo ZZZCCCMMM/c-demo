@@ -1,0 +1,11 @@
+D:\desk\winform\cramer\cramer\bin\Debug\cramer.exe.config
+D:\desk\winform\cramer\cramer\bin\Debug\cramer.exe
+D:\desk\winform\cramer\cramer\bin\Debug\cramer.pdb
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.csproj.AssemblyReference.cache
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.Form1.resources
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.Properties.Resources.resources
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.csproj.GenerateResource.cache
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.csproj.CoreCompileInputs.cache
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.csproj.CopyComplete
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.exe
+D:\desk\winform\cramer\cramer\obj\Debug\cramer.pdb
